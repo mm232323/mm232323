@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Sayed Ibrahim
 - 👀 I’m interested in Programming,motion graphic and UI/UX design
-- 🌱 I’m currently learning programming:HTML,CSS,JS and UI/UX design:Adobe Xd
+- 🌱 I’m currently working with (React, NodeJS,ExpressJs,nextJS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me
 
