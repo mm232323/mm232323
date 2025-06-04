@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Sayed Ibrahim
+- 👋 Hi, I’m Mohammed Qurany Ibrahim
 - 👀 I’m interested in Programming,motion graphic and UI/UX design
 - 🌱 I’m currently working with (React, NodeJS,ExpressJs,nextJS)
 - 💞️ I’m looking to collaborate on ...
