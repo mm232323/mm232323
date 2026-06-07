@@ -2,8 +2,9 @@
 
 <div align="center">
 
-💻 Full-Stack Developer | ⚡ ASP.NET & MERN Enthusiast | 🧠 Problem Solver  
-🚀 Building fast, scalable, and clean web experiences  
+💻 Full-Stack Developer | ⚡ ASP.NET & MERN Enthusiast | 🧠 AI / LLM Engineer  
+🚀 Building fast, scalable, and intelligent web systems  
+🤖 Exploring AI agents, LLMs, and real-world AI applications  
 🔥 Always learning, always shipping
 
 </div>
@@ -13,38 +14,50 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in Egypt  
-- 🧑‍💻 Working with **ASP.NET Core, Node.js, Express, React, Next.js**
-- 🛠 Love building scalable backend systems & clean UI/UX
-- 📈 Currently leveling up in system design & performance optimization
-- 🎯 Goal: Become a world-class software engineer
+- 🧑‍💻 Full-stack developer working with **ASP.NET Core, Node.js, Express, React, Next.js**
+- 🤖 LLM Engineer with hands-on experience in **AI systems & applied LLMs**
+- 🧠 Built projects using:
+  - **RAG (Retrieval-Augmented Generation) systems**
+  - **QLoRA fine-tuning for LLMs**
+  - **Agentic AI workflows (tool-using AI agents)**
+- 🛠 Passionate about scalable backend systems, clean architecture, and AI-driven products
+- 📈 Currently leveling up in **system design, distributed systems, and AI engineering**
+- 🎯 Goal: Become a world-class software & AI engineer building real-world intelligent systems
 
 ---
 
 ## ⚒️ Tech Stack
 
 ### 💡 Languages
-`C#` `JavaScript` `TypeScript` `SQL`
+`C#` `JavaScript` `TypeScript` `SQL` `Python`
 
 ### 🧩 Backend
-`.NET Core` `ASP.NET MVC` `Node.js` `Express.js`
+`.NET Core` `ASP.NET MVC` `Node.js` `Express.js` `Nest.js`
 
 ### 🎨 Frontend
 `React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
 
+### 🤖 AI / LLM Stack
+`PyTorch` `Transformers` `Hugging Face` `LangChain` `LlamaIndex`  
+`RAG Pipelines` `Vector Databases` `FAISS`  
+`QLoRA Fine-tuning` `Prompt Engineering`  
+`Agentic AI Systems`
+
 ### 🗄️ Databases
-`SQL Server` `MongoDB` `PostgreSQL`
+`SQL Server` `MongoDB` `PostgreSQL` `Redis` `Supabase`
 
 ### ☁️ Tools & DevOps
-`Git & GitHub` `Docker` `Postman` `Redis` `JWT`
+`Git & GitHub` `Docker` `Postman` `JWT` `Kubernetes`
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔨 Building full-stack scalable web apps
-- ⚡ Optimizing backend performance & APIs
-- 🧠 Learning system design & distributed systems
-- 🤖 Exploring AI integrations in web apps
+- 🔨 Building full-stack + AI-powered web applications
+- 🤖 Designing and implementing LLM-based systems (RAG + agents)
+- ⚡ Optimizing backend performance & scalable APIs
+- 🧠 Exploring advanced system design & distributed architectures
+- 🧪 Experimenting with fine-tuned and open-source LLMs
 
 ---
 
@@ -52,9 +65,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mm232323&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mm232323&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -62,17 +75,17 @@
 
 ## 🧠 Fun Fact
 
-> “Code is not just written — it's engineered.”
+> “The best systems are not just built — they evolve with intelligence.”
 
-I love turning complex problems into simple, clean solutions.
+I enjoy turning complex engineering + AI problems into clean, scalable solutions.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🌐 Portfolio: https://your-portfolio.com
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-qurany-37181a412/
+- 🌐 Portfolio: https://portfolio-mohammed-qurany.vercel.app/
+- 📧 Email: mohammed.qurany1@gmail.com
 
 ---
 
@@ -82,6 +95,7 @@ I love turning complex problems into simple, clean solutions.
 while (alive) {
   learn();
   build();
+  ship();
   improve();
   repeat();
 }
